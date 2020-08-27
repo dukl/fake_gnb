@@ -1,0 +1,4 @@
+[2020-07-14T17:07:30.671896] [amf] [amf_app] [start] Options parsed!
+
+[2020-07-14T17:07:30.671998] [amf] [amf_app] [debug] Load amf system configuration file(./etc/amf.conf)
+[2020-07-14T17:07:30.672089] [amf] [amf_app] [error] I/O error while reading file ./etc/amf.conf - FileIOException
